@@ -1,0 +1,20 @@
+1. Social interactions between people have changed as a result of technologies,
+because people are now able to communicate instantly over any distance. Before, 
+you could have had to wait weeks to communicate with someone, but now, you can 
+get information around the world in no time at all.
+
+2. Yes, just like IPv4, there are a finite number of possible addresses. IPv6 just
+has more than IPv4.
+
+3. The autonomous nature of domain name allocation facilitates the growth of the
+internet because anybody can use the internet, not just those who know how the 
+internet works. This abstraction makes it possible for many more people to use
+the internet, and thus facilitates growth.
+
+4. We break up data into packets to pass information through the Internet because
+it makes the data transaction quicker, and easier.
+
+5. One positive effect of the Internet on society today, is the ability to 
+connect to anyone in the world at any time. However one negative effect is that
+there is less need for face-to-face interaction, so people tend to be less social
+than they used to be.
